@@ -1,5 +1,7 @@
 # PlotPick
 
+**Live demo:** [plotpick.streamlit.app](https://plotpick.streamlit.app/)
+
 AI-powered extraction of numerical data from scientific figures.
 
 Upload images, PDFs, or ZIP archives. Each figure is sent to Claude's
